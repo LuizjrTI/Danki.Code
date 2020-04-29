@@ -15,7 +15,7 @@ Curso voltado ao desenvolvimento web e front-end avançado
 * No HTML dizemos para o nosso navegador o que é o que.
 * Podemos inserir imagens,tabelas,divisões,textos etc.
 * Utilizamos tags para realizar essa marcação, exemplo: 
-  <head><title>Meu Site!</title></head>
+  // <head><title>Meu Site!</title></head>
 
 
 
