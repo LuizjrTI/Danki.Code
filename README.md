@@ -18,13 +18,18 @@ Curso voltado ao desenvolvimento web e front-end avançado
    \<head><title>Meu Site!</title>\</head>
    
 # O que é CSS?
-*Se no HTML realizamos a marcação, o CSS é responsável por estilizar esses elementos.
-*Desde cores,backgrounds,tamanho de fonte etc.
-*É diretamente ligado com o HTML e um depende do outro.
-*Exemplo de código seria:
+* Se no HTML realizamos a marcação, o CSS é responsável por estilizar esses elementos.
+* Desde cores,backgrounds,tamanho de fonte etc.
+* É diretamente ligado com o HTML e um depende do outro.
+* Exemplo de código seria:
   \body{background-color:black;}
-
-   
+  
+# O que é o JavaScript?
+* Linguagem de programação responsável em manipular qualquer elemento do site.
+* Podemos criar intervalos, realizar animações, trabalhar com eventos e muito mais.
+* Exemplo: Ao clicarmos em um elemento quero que abra uma janela. Isso é JavaScript!
+* Código de exemplo:
+  \Window.onload = function(){alert(‘Olá    mundo!’)}
 
 
 
