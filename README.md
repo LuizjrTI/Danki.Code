@@ -22,14 +22,14 @@ Curso voltado ao desenvolvimento web e front-end avançado
 * Desde cores,backgrounds,tamanho de fonte etc.
 * É diretamente ligado com o HTML e um depende do outro.
 * Exemplo de código seria:
-  \body{background-color:black;}
+  body{background-color:black;}
   
 # O que é o JavaScript?
 * Linguagem de programação responsável em manipular qualquer elemento do site.
 * Podemos criar intervalos, realizar animações, trabalhar com eventos e muito mais.
 * Exemplo: Ao clicarmos em um elemento quero que abra uma janela. Isso é JavaScript!
 * Código de exemplo:
-  \Window.onload = function(){alert(‘Olá    mundo!’)}
+  Window.onload = function(){alert(‘Olá    mundo!’)}
 
 
 
