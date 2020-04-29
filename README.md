@@ -17,6 +17,13 @@ Curso voltado ao desenvolvimento web e front-end avançado
 * Utilizamos tags para realizar essa marcação, exemplo: 
    \<head><title>Meu Site!</title>\</head>
    
+# O que é CSS?
+*Se no HTML realizamos a marcação, o CSS é responsável por estilizar esses elementos.
+*Desde cores,backgrounds,tamanho de fonte etc.
+*É diretamente ligado com o HTML e um depende do outro.
+*Exemplo de código seria:
+  \body{background-color:black;}
+
    
 
 
