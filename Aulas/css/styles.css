@@ -1,0 +1,16 @@
+/*referenciar por id*/
+
+#div1 h1 {
+    color: green;
+}
+
+
+/* referenciar por class*/
+
+.div2 h1 {
+    color: blue;
+}
+
+body {
+    background-color: black;
+}
