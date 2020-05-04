@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.box {
+    color: green;
+    width: 500px;
+    height: 500px;
+}
+
+.box span {
+    display: inline-block;
+    width: inherit;
+    height: inherit;
+    background: black;
+}

@@ -13,6 +13,5 @@ body {
     height: 200px;
     background: gray;
     margin: auto;
-    overflow: scroll;
-    padding: 10px;
+    overflow: auto;
 }
