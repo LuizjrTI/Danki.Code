@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.tipo1 {
+    color: gray;
+}
+
+.Link_ {
+    font-size: 30px;
+    text-decoration: none;
+}
+
+
+/*Será chamada por ser a ultima no arquivo CSS*/
+
+.tipo2 {
+    font-size: 90px;
+}

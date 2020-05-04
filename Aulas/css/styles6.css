@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.header {
+    width: 100%;
+    height: 200px;
+    background: gray;
+}
+
+.article {
+    width: 100%;
+    height: 600px;
+    background: red;
+    /* são classes que tem maior prioridades
+    min-width: ; >  max-width: > width;
+    min-height: ; > max-height: > height;
+    */
+}

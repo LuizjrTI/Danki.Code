@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*Design responsivo*/
+
+html,
+body {
+    height: 100%;
+}
+
+.lista,
+.lista2 {
+    list-style-position: inside;
+    list-style-type: disc;
+}
+
+.lista li,
+.lista2 li {
+    color: green;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.lista .item3,
+.lista2 .item3 {
+    color: red;
+}
+
+
+/*Mais especifico o resto é ignorado*/
+
+.lista li.item3 {
+    color: orange;
+    font-weight: bold;
+}
+
+ol {
+    list-style-type: square auto;
+    list-style-position: inside;
+}
+
+ol>li {
+    color: blue;
+}
